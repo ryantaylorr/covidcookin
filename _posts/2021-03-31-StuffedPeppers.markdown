@@ -7,7 +7,7 @@ excerpt: "Just cookin"
 categories: food
 tags:  food
 image:
-  feature: test.jpg
+  feature: stuffedpeppers.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
